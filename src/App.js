@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 class App extends Component {
   render() {
@@ -18,6 +18,14 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React
+          </a>
+          <a
+            className="App-link"
+            href="https://education.github.com/git-cheat-sheet-education.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Learn Git
           </a>
         </header>
       </div>
