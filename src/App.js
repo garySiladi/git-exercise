@@ -22,6 +22,14 @@ class App extends Component {
           >
             Learn React
           </a>
+          <a
+            className="App-link"
+            href="https://education.github.com/git-cheat-sheet-education.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Learn Git
+          </a>
         </header>
       </div>
     );
